@@ -10,4 +10,6 @@ while guess != number:
     else:
         print('Think a number lower than this')
         guess = input('Guess a number between 1 and 100: ')
+
+        
 print('Correct Guess')
